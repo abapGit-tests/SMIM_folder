@@ -4,7 +4,12 @@
   <asx:values>
    <URL>/SAP/PUBLIC/zabapgit_ci_folder/zabapgit_ci_object</URL>
    <CLASS>M_APP_L</CLASS>
-   <MIMETYPE>text/plain</MIMETYPE>
+   <EXTRA>
+    <FILE_NAME>zabapgit_ci_object</FILE_NAME>
+    <MIMETYPE>application/octet-stream</MIMETYPE>
+    <DESCRIPTION>zabapgit_ci_object</DESCRIPTION>
+    <PARENT_FOLDER_ID>82E55369D9431FE0BFBBF429136E78A3</PARENT_FOLDER_ID>
+   </EXTRA>
   </asx:values>
  </asx:abap>
 </abapGit>

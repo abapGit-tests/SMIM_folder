@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SMIM" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/SAP/PUBLIC/zabapgit_ci_folder/abapGit_CI_result.html</URL>
+   <CLASS>M_TEXT_L</CLASS>
+   <EXTRA>
+    <FILE_NAME>abapGit_CI_result.html</FILE_NAME>
+    <MIMETYPE>text/html</MIMETYPE>
+    <DESCRIPTION>abapGit CI results in HTML format</DESCRIPTION>
+    <PARENT_FOLDER_ID>82E55369D9431FE0BFBBF429136E78A3</PARENT_FOLDER_ID>
+   </EXTRA>
+  </asx:values>
+ </asx:abap>
+</abapGit>
